@@ -1,0 +1,8 @@
+#lista de bets
+*.bet365.com
+
+#Lixos da Internet que abre no browser
+*.gkvubmfeaph.com
+*.advanced-presentation.com
+*.viijan.com
+*.best-bons.com
