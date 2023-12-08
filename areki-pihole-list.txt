@@ -5,4 +5,4 @@
 0.0.0.0 gkvubmfeaph.com
 0.0.0.0 advanced-presentation.com
 0.0.0.0 viijan.com
-0.0.0.0 best-bons.com
+0.0.0.0 *.best-bons.com
